@@ -32,4 +32,5 @@ failure{
 echo 'Pipeline failed.'
 }
 }
+}
 
