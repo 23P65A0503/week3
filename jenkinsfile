@@ -31,3 +31,5 @@ echo 'pipeline completed successfully!'
 failure{
 echo 'Pipeline failed.'
 }
+}
+
